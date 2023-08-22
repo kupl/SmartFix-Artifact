@@ -6,7 +6,7 @@ We recommend machines equipped with at least 64 cores and 64GB RAM to stably rep
 
 ## Software
 * We assume [Docker](https://docs.docker.com/engine/install/ubuntu/) is installed in your hardware. All experimental results will be reproduced in a dockerized environment.
-* To run docker commands without ``sudo``, run the following commands (source: https://askubuntu.com/a/739861):
+* To run docker commands without ``sudo``, run the following command (source: https://askubuntu.com/a/739861).
   ```
    sudo usermod -aG docker $USER
   ```
