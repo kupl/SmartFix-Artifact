@@ -4,7 +4,7 @@ This repository contains the artifact for reproducing the main experimental resu
 
 [SmartFix: Fixing Vulnerable Smart Contracts by Accelerating Generate-and-Verify Repair using Statistical Models](./paper.pdf)
 
-In particular, we provide step-by-step instructions for reproducing Table 1, Table 2, and Figure 4 in the paper.
+Specifically, we provide step-by-step instructions for reproducing Table 1, Table 2, and Figure 4 in the paper.
 This artifact is organized as follows.
 * ``SmartFix``: the source code of SmartFix
 * ``benchmarks``: the benchmarks used for the experiments
