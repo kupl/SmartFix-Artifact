@@ -1,6 +1,6 @@
 # Note 1. The implementation of SmartFix is under MIT License, with an exception to some source code (parts of src/util/vocab.ml) under BSD 3-Clause License.
 # Note 2. The scripts for running the experiments are under MIT License.
-# Note 3. If license information is explicitly specified in the source code of benchmark contracts, those contracts are under the specified licenses respectively.
+# Note 3. If license information is explicitly stated in the source code of benchmark contracts, those contracts are under the specified licenses respectively.
 
 Copyright (c) 2023-present Software Analysis Laboratory, Korea University
 
