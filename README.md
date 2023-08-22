@@ -10,7 +10,7 @@ This artifact is organized as follows.
 * ``benchmarks``: the benchmarks used for the experiments
 * ``fix_experiment``: the directory that contains scripts that will be executed within docker containers
 * ``fix_result``: the directory that will store the outputs of each tool
-* ``index_sGuard``: the modified file in [the implementation of sGuard](https://github.com/duytai/sGuard/tree/643c5f67f21d5a433965218a84ce407d93ccdc23) for enabling to specify Solidity compiler versions and the names of main contracts to be patched (see Section 5.1 in our paper)
+* ``index_sGuard``: the modified file from [the implementation of sGuard](https://github.com/duytai/sGuard/tree/643c5f67f21d5a433965218a84ce407d93ccdc23) for enabling to specify Solidity compiler versions and the names of main contracts to be patched (see Section 5.1 in our paper)
 * ``wrapper``: the directory that contains scripts that will be executed on your host machine 
 
 ## Requirements
